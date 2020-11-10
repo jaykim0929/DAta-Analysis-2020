@@ -1,3 +1,9 @@
+# ckkim add
+test.db
+mysql.json
+exercise.ipynb
+samples/
+
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
